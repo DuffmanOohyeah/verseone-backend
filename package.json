@@ -15,7 +15,8 @@
 	"dependencies": {
 		"compression": "^1.8.0",
 		"cors": "^2.8.5",
-		"express": "^5.1.0"
+		"express": "^5.1.0",
+		"uuid": "^11.1.0"
 	},
 	"devDependencies": {
 		"@types/compression": "^1.7.5",
